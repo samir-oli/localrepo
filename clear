@@ -1,0 +1,19 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 09f1f84..0c109d2 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,2 @@[m
+[31m-# This is my local Reo[m
+\ No newline at end of file[m
+[32m+[m[32m# This is my local Reo[m
+[41m+[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1113199..2fc7d84 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,2 @@[m
+ <p> This is a new Repo</p>[m
+[31m-<p> This is a new feature (button)</p> [m
+\ No newline at end of file[m
+[32m+[m[32m<p> This is a new feature(dropdwn)</p>[m
+\ No newline at end of file[m
